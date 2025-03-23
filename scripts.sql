@@ -6,9 +6,9 @@ from
     "student" s;
 
 
-select * from "faculty";
+select * from faculty;
 
-select * from "student";
+select * from student;
 
 select * from student where age between 10 and 20;
 
